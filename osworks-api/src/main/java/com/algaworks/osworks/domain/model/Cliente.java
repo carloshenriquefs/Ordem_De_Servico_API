@@ -8,6 +8,9 @@ import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
+import com.algaworks.osworks.domain.ValidationGroups;
+import com.sun.istack.NotNull;
+
 @Entity
 public class Cliente {
 
